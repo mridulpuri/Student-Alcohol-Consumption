@@ -1,6 +1,6 @@
 # Student-Alcohol-Consumption
 
-In this project, we use a data set about Portuguese student on two
+In this project, we used a data set about Portuguese student on two
 courses
 (Mathematics and Portuguese) which was collected in University of
 Minho, Portugal. Our work intends to approach student addiction
